@@ -1,2 +1,2 @@
-# Bokeh-Python-InteractiveVisualizations
-Python Interactive Visualizations
+# Bokeh-Python-InteractiveVisualization
+Python Interactive Visualization
